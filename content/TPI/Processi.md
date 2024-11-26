@@ -1,1 +1,1 @@
-sblob
+Un processo è
