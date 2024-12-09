@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-Appunti di [[TPI]]:
+Appunti di TPI]
 	-[[Processi]]
 	-[[Gestione Memoria]]
 
