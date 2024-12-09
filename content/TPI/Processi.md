@@ -1,4 +1,5 @@
 [[content/index|index]]
+
 Perché un processo possa risiedere in memoria centrale è necessario che lo spazio libero in
 memoria sia:
 - sufficientemente grande
