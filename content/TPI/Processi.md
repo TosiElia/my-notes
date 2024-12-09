@@ -1,4 +1,4 @@
-[[content/index]]
+[[Gestione Memoria]]
 
 
 Perché un processo possa risiedere in memoria centrale è necessario che lo spazio libero in

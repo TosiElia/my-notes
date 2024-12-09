@@ -1,4 +1,4 @@
-[[content/index]]
+[[Gestione Memoria]]
 
 **Linking:**
 Il Linking di un programma consiste nel calcolo degli indirizzi logici
