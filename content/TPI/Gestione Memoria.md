@@ -10,4 +10,4 @@ Un codice con tali caratteristiche si chiama codice rilocabile
 -[[Rilocazione]]
 -[[MMU]]
 -[[Linking e Binding]]
--
+-[[Allocazione in memoria]]

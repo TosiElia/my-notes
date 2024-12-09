@@ -1,5 +1,5 @@
+[[Gestione Memoria]]
 
-
-Una partizione possono essere:
+Le partizioni possono essere:
 -[[Partizione Fissa]]
 -[[Partizione Variabile]]
