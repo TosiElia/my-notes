@@ -1,0 +1,1 @@
+**Accesso Multiplo**: Quando più dispositivi condividono lo stesso mezzo fisico, il Data Link Layer implementa tecniche di accesso multiplo per prevenire collisioni tra i frame. Questo è fondamentale in reti come Ethernet, dove più dispositivi possono tentare di trasmettere simultaneamente

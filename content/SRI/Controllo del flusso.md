@@ -1,0 +1,1 @@
+**Controllo del Flusso**: Il Data Link Layer gestisce il flusso di dati tra il mittente e il destinatario, evitando sovraccarichi di dati che potrebbero causare perdite di informazioni. Questo è particolarmente importante in situazioni in cui le capacità di elaborazione dei dispositivi possono variare
