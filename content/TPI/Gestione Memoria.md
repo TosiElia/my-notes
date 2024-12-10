@@ -11,3 +11,4 @@ Un codice con tali caratteristiche si chiama codice rilocabile
 -[[MMU]]
 -[[Linking e Binding]]
 -[[Allocazione in memoria]]
+-[[Memoria Virtuale]]
