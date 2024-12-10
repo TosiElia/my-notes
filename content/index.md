@@ -1,7 +1,9 @@
 ---
 title: Home
 ---
-Appunti di TPI]
-	-[[Processi]]
+Appunti di TPI:	
 	-[[Gestione Memoria]]
+
+Appunti di SRI:
+
 

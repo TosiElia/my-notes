@@ -1,4 +1,4 @@
-[[content/index]]
+[[content/index|index]]
 
 **Codice rilocabile**
 
@@ -12,3 +12,4 @@ Un codice con tali caratteristiche si chiama codice rilocabile
 -[[Linking e Binding]]
 -[[Allocazione in memoria]]
 -[[Memoria Virtuale]]
+-[[Processi]]
